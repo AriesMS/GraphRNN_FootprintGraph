@@ -1,0 +1,210 @@
+PS D:\Docs\New\RA\Models\Models\GRAPHRNNTEST2> & C:/Users/yangy/anaconda3/python.exe d:/Docs/New/RA/Models/Models/GRAPHRNNTEST2/Model.py
+Labels encoded and graph data objects created.
+Using GPU
+Epoch 0: No significant improvement in validation loss.
+Training Loss: 124.2974, Validation Loss: 94.0930
+Epoch 1: No significant improvement in validation loss.
+Training Loss: 110.4482, Validation Loss: 88.1241
+Epoch 2: No significant improvement in validation loss.
+Training Loss: 106.2463, Validation Loss: 86.6118
+Epoch 3: No significant improvement in validation loss.
+Training Loss: 104.3306, Validation Loss: 86.2916
+Epoch 4: No significant improvement in validation loss.
+Training Loss: 103.5679, Validation Loss: 83.9290
+Epoch 5: No significant improvement in validation loss.
+Training Loss: 101.4472, Validation Loss: 83.5984
+Epoch 6: No significant improvement in validation loss.
+Training Loss: 99.6034, Validation Loss: 84.8089
+Epoch 7: No significant improvement in validation loss.
+Training Loss: 99.5770, Validation Loss: 84.7807
+Epoch 8: No significant improvement in validation loss.
+Training Loss: 98.1331, Validation Loss: 82.2683
+Epoch 9: No significant improvement in validation loss.
+Training Loss: 96.9511, Validation Loss: 82.3310
+Epoch 10: No significant improvement in validation loss.
+Training Loss: 96.9338, Validation Loss: 80.8551
+Epoch 11: No significant improvement in validation loss.
+Training Loss: 96.3809, Validation Loss: 82.6370
+Epoch 12: No significant improvement in validation loss.
+Training Loss: 95.7453, Validation Loss: 80.8111
+Epoch 13: No significant improvement in validation loss.
+Training Loss: 94.8906, Validation Loss: 80.8632
+Epoch 14: No significant improvement in validation loss.
+Training Loss: 95.2438, Validation Loss: 83.9501
+Epoch 15: No significant improvement in validation loss.
+Training Loss: 94.6546, Validation Loss: 81.6980
+Epoch 16: No significant improvement in validation loss.
+Training Loss: 95.4533, Validation Loss: 79.9473      
+Epoch 17: No significant improvement in validation loss.
+Training Loss: 94.7541, Validation Loss: 81.0652      
+Epoch 18: No significant improvement in validation loss.
+Training Loss: 93.2095, Validation Loss: 80.8167      
+Epoch 19: No significant improvement in validation loss.
+Training Loss: 93.4777, Validation Loss: 81.5459      
+Epoch 20: No significant improvement in validation loss.
+Training Loss: 92.7394, Validation Loss: 82.3738      
+Epoch 21: No significant improvement in validation loss.
+Training Loss: 92.1359, Validation Loss: 79.9041      
+Epoch 22: No significant improvement in validation loss.
+Training Loss: 92.5836, Validation Loss: 78.5304      
+Epoch 23: No significant improvement in validation loss.
+Training Loss: 91.5160, Validation Loss: 81.8865      
+Epoch 24: No significant improvement in validation loss.
+Training Loss: 90.4156, Validation Loss: 79.0259      
+Epoch 25: No significant improvement in validation loss.
+Training Loss: 90.8958, Validation Loss: 79.2098      
+Epoch 26: No significant improvement in validation loss.
+Training Loss: 90.8964, Validation Loss: 78.0418      
+Epoch 27: No significant improvement in validation loss.
+Training Loss: 89.6358, Validation Loss: 78.1421      
+Epoch 28: No significant improvement in validation loss.
+Training Loss: 91.3097, Validation Loss: 80.8706      
+Epoch 29: No significant improvement in validation loss.
+Training Loss: 91.5692, Validation Loss: 79.7990      
+Epoch 30: No significant improvement in validation loss.
+Training Loss: 92.2891, Validation Loss: 79.3256   Epoch 28: No significant improvement in validation loss.
+Training Loss: 91.3097, Validation Loss: 80.8706   
+Epoch 29: No significant improvement in validation loss.
+Training Loss: 91.5692, Validation Loss: 79.7990   
+Epoch 30: No significant improvement in validation loss.
+Training Loss: 92.2891, Validation Loss: 79.3256   
+Epoch 31: No significant improvement in validation loss.
+Training Loss: 90.9166, Validation Loss: 80.4313   
+Epoch 32: No significant improvement in validation loss.
+Training Loss: 90.6901, Validation Loss: 80.7552   
+Epoch 33: No significant improvement in validation loss.
+Training Loss: 90.7551, Validation Loss: 79.4413   
+Epoch 34: No significant improvement in validation loss.
+Training Loss: 92.2738, Validation Loss: 80.9989   
+Epoch 35: No significant improvement in validation loss.
+Training Loss: 90.8046, Validation Loss: 79.4286   
+Epoch 36: No significant improvement in validation loss.
+Training Loss: 90.5002, Validation Loss: 80.1697      
+Epoch 37: No significant improvement in validation loss.
+Training Loss: 90.5894, Validation Loss: 80.6956      
+Epoch 38: No significant improvement in validation loss.
+Training Loss: 89.3948, Validation Loss: 79.2438      
+Epoch 39: No significant improvement in validation loss.
+Training Loss: 88.6078, Validation Loss: 81.7905      
+Epoch 40: No significant improvement in validation loss.
+Training Loss: 89.2292, Validation Loss: 79.5178      
+Epoch 41: No significant improvement in validation loss.
+Training Loss: 88.8987, Validation Loss: 79.3749      
+Epoch 42: No significant improvement in validation loss.
+Training Loss: 89.1277, Validation Loss: 80.6994      
+Epoch 43: No significant improvement in validation loss.
+Training Loss: 89.7412, Validation Loss: 81.1829      
+Epoch 44: No significant improvement in validation loss.
+Training Loss: 89.7355, Validation Loss: 79.5026      
+Epoch 45: No significant improvement in validation loss.
+Training Loss: 88.6815, Validation Loss: 82.6838      
+Epoch 46: No significant improvement in validation loss.
+Training Loss: 88.5989, Validation Loss: 80.8450      
+Epoch 47: No significant improvement in validation loss.
+Training Loss: 88.2527, Validation Loss: 82.0408      
+Epoch 48: No significant improvement in validation loss.
+Training Loss: 89.7179, Validation Loss: 81.2123      
+Epoch 49: No significant improvement in validation loss.
+Training Loss: 90.6267, Validation Loss: 81.2765      
+Epoch 50: No significant improvement in validation loss.
+Training Loss: 89.4635, Validation Loss: 83.4953      
+Epoch 51: No significant improvement in validation loss.
+Training Loss: 88.9809, Validation Loss: 82.6339      
+Epoch 52: No significant improvement in validation loss.
+Training Loss: 89.7533, Validation Loss: 80.1174      
+Epoch 53: No significant improvement in validation loss.
+Training Loss: 88.4713, Validation Loss: 81.5301
+Epoch 54: No significant improvement in validation loss.
+Training Loss: 88.4934, Validation Loss: 79.6562      
+Epoch 55: No significant improvement in validation loss.
+Training Loss: 87.4970, Validation Loss: 82.1394      
+Epoch 56: No significant improvement in validation loss.
+Training Loss: 88.1848, Validation Loss: 82.5571      
+Epoch 57: No significant improvement in validation loss.
+Training Loss: 88.0416, Validation Loss: 84.7333      
+Epoch 58: No significant improvement in validation loss.
+Training Loss: 88.7898, Validation Loss: 81.8045      
+Epoch 59: No significant improvement in validation loss.
+Training Loss: 89.0246, Validation Loss: 82.2239      
+Epoch 60: No significant improvement in validation loss.
+Training Loss: 88.4702, Validation Loss: 82.7005      
+Epoch 61: No significant improvement in validation loss.
+Training Loss: 88.0289, Validation Loss: 80.5130      
+Epoch 62: No significant improvement in validation loss.
+Training Loss: 87.0647, Validation Loss: 82.4168      
+Epoch 63: No significant improvement in validation loss.
+Training Loss: 87.2486, Validation Loss: 82.2526      
+Epoch 64: No significant improvement in validation loss.
+Training Loss: 90.1157, Validation Loss: 82.4260      
+Epoch 65: No significant improvement in validation loss.
+Training Loss: 88.7148, Validation Loss: 82.8536      
+Epoch 66: No significant improvement in validation loss.
+Training Loss: 89.3656, Validation Loss: 82.6446      
+Epoch 67: No significant improvement in validation loss.
+Training Loss: 89.2810, Validation Loss: 81.9589      
+Epoch 68: No significant improvement in validation loss.
+Training Loss: 87.6046, Validation Loss: 80.0694      
+Epoch 69: No significant improvement in validation loss.
+Training Loss: 88.0385, Validation Loss: 81.7935      
+Epoch 70: No significant improvement in validation loss.
+Training Loss: 88.7911, Validation Loss: 81.8198      
+Epoch 71: No significant improvement in validation loss.
+Training Loss: 89.2265, Validation Loss: 81.7638      
+Epoch 72: No significant improvement in validation loss.
+Training Loss: 89.3929, Validation Loss: 82.7995      
+Epoch 73: No significant improvement in validation loss.
+Training Loss: 89.6005, Validation Loss: 81.8129      
+Epoch 74: No significant improvement in validation loss.
+Training Loss: 88.9272, Validation Loss: 82.9952      
+Epoch 75: No significant improvement in validation loss.
+Training Loss: 88.3211, Validation Loss: 81.0418      
+Epoch 76: No significant improvement in validation loss.
+Training Loss: 88.3012, Validation Loss: 85.0836      
+Epoch 77: No significant improvement in validation loss.
+Training Loss: 89.1489, Validation Loss: 80.5942      
+Epoch 78: No significant improvement in validation loss.
+Training Loss: 87.3819, Validation Loss: 81.7236      
+Epoch 79: No significant improvement in validation loss.
+Training Loss: 86.5008, Validation Loss: 83.1182      
+Epoch 80: No significant improvement in validation loss.
+Training Loss: 86.4290, Validation Loss: 81.1762      
+Epoch 81: No significant improvement in validation loss.
+Training Loss: 85.5634, Validation Loss: 81.2542      
+Epoch 82: No significant improvement in validation loss.
+Training Loss: 85.3139, Validation Loss: 81.5501      
+Epoch 83: No significant improvement in validation loss.
+Training Loss: 85.5044, Validation Loss: 81.4671      
+Epoch 84: No significant improvement in validation loss.
+Training Loss: 84.9324, Validation Loss: 81.9666      
+Epoch 85: No significant improvement in validation loss.
+Training Loss: 85.3404, Validation Loss: 83.2358      
+Epoch 86: No significant improvement in validation loss.
+Training Loss: 86.1176, Validation Loss: 82.6442      
+Epoch 87: No significant improvement in validation loss.
+Training Loss: 86.1111, Validation Loss: 83.2275      
+Epoch 88: No significant improvement in validation loss.
+Training Loss: 87.2917, Validation Loss: 82.3113      
+Epoch 89: No significant improvement in validation loss.
+Training Loss: 87.9992, Validation Loss: 83.2362      
+Epoch 90: No significant improvement in validation loss.
+Training Loss: 88.3367, Validation Loss: 83.1827      
+Epoch 91: No significant improvement in validation loss.
+Training Loss: 85.2113, Validation Loss: 79.6402      
+Epoch 92: No significant improvement in validation loss.
+Training Loss: 86.0123, Validation Loss: 82.6136      
+Epoch 93: No significant improvement in validation loss.
+Training Loss: 85.7185, Validation Loss: 80.8147      
+Epoch 94: No significant improvement in validation loss.
+Training Loss: 85.1610, Validation Loss: 82.7593      
+Epoch 95: No significant improvement in validation loss.
+Training Loss: 86.0780, Validation Loss: 81.1106      
+Epoch 96: No significant improvement in validation loss.
+Training Loss: 84.4675, Validation Loss: 86.1535      
+Epoch 97: No significant improvement in validation loss.
+Training Loss: 85.9071, Validation Loss: 81.8820      
+Epoch 98: No significant improvement in validation loss.
+Training Loss: 83.3575, Validation Loss: 81.3768      
+Epoch 99: No significant improvement in validation loss.
+Training Loss: 83.4309, Validation Loss: 83.4540      
+Model saved successfully!
+PS D:\Docs\New\RA\Models\Models\GRAPHRNNTEST2> 
